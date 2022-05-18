@@ -1,0 +1,63 @@
+body{
+    width: 1000px;
+    margin:auto;
+}
+
+.encabezado {
+    color: rgb(245, 247, 241);
+    background-color: rgb(22, 120, 201);
+    font-size: 30px;
+    height: 120px;
+    
+}
+
+.seccion {
+    color: rgb(37, 37, 36);
+    background-color: rgb(105, 175, 149);
+    height: 400px;
+
+}
+
+.seccion1 {
+    color: rgb(37, 37, 36);
+    height: 400px;
+    font-size: 30px;
+}
+
+.seccion2 {
+    color: rgb(37, 37, 36);
+    height: 400px;
+    font-size: 30px;
+}
+
+.seccion3 {
+    color: rgb(37, 37, 36);
+    height: 150px;
+    font-size: 20px;
+    background-color: rgb(22, 120, 201);
+}
+
+.seccion4 {
+    color: rgb(37, 37, 36);
+    height: 350px;
+    font-size: 20px;
+    background-image: url(imagenes/marco\ vegetales.jpg);
+	background-size: 100% 100%;	
+}
+
+.seccion5 {
+        color: rgb(37, 37, 36);
+        background-color: rgb(105, 175, 149);
+        height: 200px;
+}
+
+footer {
+    color: rgb(37, 37, 36);
+    background-color: rgb(22, 120, 201);
+    height: 100px;
+}
+
+#boton{
+    display: flex;
+    justify-content: center;
+}
